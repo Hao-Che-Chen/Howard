@@ -437,7 +437,7 @@ def auto_refresh():
 # ====== GUI 介面 ======
 
 root = tk.Tk()
-root.title("宣德智能_PM庫存管理系統")
+root.title("輕量庫存管理系統")
 root.geometry("1200x720")
 
 frame_top = tk.Frame(root)
